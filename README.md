@@ -1,1 +1,1 @@
-this is a diwali sales analysis project
+This is a diwali sales analysis project
